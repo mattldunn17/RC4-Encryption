@@ -1,3 +1,8 @@
+############
+#   Program: RC4.py
+#   Authors: Adam Ratz and Matthew Dunn
+#   Date: April 2018
+############
 S = [None] * 256 #Global array for easier implementation of prga and ksa
 
 def ksa(key): #The Key Scheduling Algorithm
